@@ -4,6 +4,6 @@ import org.junit.*;
 public class TestingFile {
     @Test
     public void testTwo(){
-        assertEquals(1, NewFile.two());
+        assertEquals(2, NewFile.two());
     }
 }
